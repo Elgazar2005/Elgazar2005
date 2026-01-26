@@ -64,6 +64,8 @@ Designed to improve daily operations for small restaurant systems.
 - 🖥️ [**Portfolio Website**](https://elgazar-portfolio.vercel.app/)
 A personal portfolio website to showcase projects and technical skills.
 Built using **HTML, CSS, and JavaScript** with a fully responsive design.
+
+
 🔗 **Live Demo:** [https://elgazar-portfolio.vercel.app/](https://elgazar-portfolio.vercel.app/)
 
 
