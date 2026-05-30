@@ -61,12 +61,12 @@ Helps manage menu items, orders, and customer data efficiently.
 Designed to improve daily operations for small restaurant systems.
 
 
-- 🖥️ [**Portfolio Website**](https://elgazar-portfolio.vercel.app/)
+- 🖥️ [**Portfolio Website**]([https://elgazar-portfolio.vercel.app/](https://github.com/Elgazar2005/portofilio))
 A personal portfolio website to showcase projects and technical skills.
 Built using **HTML, CSS, and JavaScript** with a fully responsive design.
 
 
-🔗 **Live Demo:** [https://elgazar-portfolio.vercel.app/](https://elgazar-portfolio.vercel.app/)
+🔗 **Live Demo:** [https://elgazar-portfolio.vercel.app/](https://omarelgazar.vercel.app/#)
 
 
 ---
